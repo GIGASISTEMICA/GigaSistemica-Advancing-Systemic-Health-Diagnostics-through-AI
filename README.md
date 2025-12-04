@@ -19,7 +19,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
 - **Repository:**  
   [GitHub: BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs](https://github.com/BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs/tree/main)
 
-![](https://raw.githubusercontent.com/BrunoScholles98/GigaXReport-A-Multimodal-Diagnostic-Framework-with-Specialized-Language-Models-SLMs/refs/heads/main/static/MainPage_Example.png)
+![](https://raw.githubusercontent.com/GIGASISTEMICA/GigaSistemica-Advancing-Systemic-Health-Diagnostics-through-AI/refs/heads/main/static/GigaXReport_Interface.png)
 
 ---
 
