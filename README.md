@@ -33,7 +33,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
 - **Repository:**  
   [GitHub: BrunoScholles98/Deep-Learning-for-Bone-Health-Classification-through-X-ray-Imaging](https://github.com/BrunoScholles98/Deep-Learning-for-Bone-Health-Classification-through-X-ray-Imaging)
 
-![Osteoporosis Screening](https://i.ibb.co/gMB952P5/OsteoMe.png)
+![Osteoporosis Screening](https://raw.githubusercontent.com/GIGASISTEMICA/GigaSistemica-Advancing-Systemic-Health-Diagnostics-through-AI/refs/heads/main/static/gitrepo_home_osteo.png)
 
 ---
 
@@ -49,7 +49,7 @@ Below is an overview of completed and ongoing projects under the GigaSistêmica 
 - **Repository:**  
   [GitHub: igorbispo99/GigaSistemica-Atheroma](https://github.com/igorbispo99/GigaSistemica-Atheroma/tree/main)
 
-![Atheroma Segmentation](https://i.ibb.co/SXGY453X/Ateroma.png)
+![Atheroma Segmentation](https://raw.githubusercontent.com/GIGASISTEMICA/GigaSistemica-Advancing-Systemic-Health-Diagnostics-through-AI/refs/heads/main/static/gitrepo_home_ath.png)
 
 ---
 
